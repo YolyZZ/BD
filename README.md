@@ -33,7 +33,8 @@
 3. 调试步骤：
 
 1)修改main.py对应API，修改读取数据的方式。
-	目前是读取csv再转为dataframe类型，如果是dict格式，可以修改读入方式，根据数据文件内容改成读取dict并转为dataframe，保证转为了dataframe类型再传入底层逻辑就可以。
+	
+	测试为读取csv再转为dataframe类型，如果是dict格式，可以参考示例修改读入方式，根据数据文件内容改成读取dict并转为dataframe，保证转为了dataframe类型再传入底层逻辑就可以。
 
 2)修改完毕后，运行main.py入口代码，可测试三个API的输出。
 
