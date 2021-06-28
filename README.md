@@ -1,7 +1,7 @@
 # BD
 
 
-1. requirement.txt：项目用到了的packages及其版本
+1. requirement.txt：项目用到的packages及其版本参考
 
 
 2. 程序入口：main.py
